@@ -1,13 +1,7 @@
-# HealthZone Android Application
-
-HealthZone let users do the following:
-- Set custom Medicine Reminders, with scheduled notifications
-- Find nearest General Practitioner (GP) Clinics, participating under CHAS program
-- See Singapore's Top 3 Infections.
-
 ## Installation instructions
+
 Steps to run the application:
-1) Unzip the ZIP with folder name: "medicine_reminders"
+1) Download and unzip the ZIP with folder name: "medicine_reminders"
 2) Open Visual Studio Code (VS Code)
 3) Open the project folder
 4) You might have to install Flutter and Dart in VS Code, as well as set up Android Studio.

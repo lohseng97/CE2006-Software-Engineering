@@ -17,5 +17,5 @@ HealthZone let users do the following:
 - Chew Loh Seng (@lohseng97)
 - Darryl Tan (@darryltkh)
 - Lim Jun Wei (@eveHasGithub)
-- Chockalingam Kasi 
+- Chockalingam Kasi (@Chockaaa)
 - Royce Tan

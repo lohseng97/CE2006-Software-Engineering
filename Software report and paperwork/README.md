@@ -1,4 +1,5 @@
----------------------------------Description of all documents submitted--------------------------------------
+## Description of all documents submitted
+
 1. Readme.txt
    Contains all of the descriptions of all documents submitted and how to run the application.
 
@@ -31,8 +32,7 @@
 11. Object Design – Sequence Diagrams
     The second iteration of the class and sequence diagrams.
 
----------------------------------Description on how to run the application--------------------------------------
-
+## Description on how to run the application
 Steps to run the application:
 1) Unzip the ZIP with folder name: "medicine_reminders"
 2) Open Visual Studio Code (VS Code)
@@ -70,4 +70,11 @@ In case the flutter build fails, these steps might need to be done:
 9) After building, you might need to run the application if it is not done automatically.
    Type in F5 (debugging mode) or Ctrl+F5 (Run without debugging) to install the apk into the Android emulator or phone.
 
-Please submit a ticket to Group Leader Darryl Tan (dtan103@e.ntu.edu.sg) or Assistant Group Leader Loh Seng (chew0398@e.ntu.edu.sg) if you need help.
+Please submit a ticket to Group Leader Darryl Tan (@darryltkh) or Assistant Group Leader Loh Seng (@lohseng97) if you need help.
+
+### Contributors
+- Chew Loh Seng (@lohseng97)
+- Darryl Tan (@darryltkh)
+- Lim Jun Wei (@eveHasGithub)
+- Chockalingam Kasi (@Chockaaa)
+- Royce Tan

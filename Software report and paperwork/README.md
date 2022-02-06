@@ -1,6 +1,6 @@
 ## Description of all documents submitted
 
-1. Readme.txt
+1. Readme.txt  
    Contains all of the descriptions of all documents submitted and how to run the application.
 
 2. Software Requirements Specifications   

@@ -1,4 +1,4 @@
-    # NTU CE/CZ2006 Software Engineering - Ducks Are Awesome
+# NTU CE/CZ2006 Software Engineering - Ducks Are Awesome
 
 ## HealthZone Android Application
 

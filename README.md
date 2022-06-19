@@ -8,12 +8,12 @@
 - See Singapore's Top 3 Infections.
 
 ### Contents
-- medicine_reminders folder: Contains the files required for the HealthZone App
-- Software Report and Paperwork folder: Contains the plan and details for the app and other develepmental ducumentation over the course of designing and implementation of the app. It contains s seperate readme file to explain each ducumentation usage.
+- ``medicine_reminders`` folder: Contains the files required for the HealthZone App
+- ``Software Report and Paperwork`` folder: Contains the plan and details for the app and other develepmental ducumentation over the course of designing and implementation of the app. It contains a separate readme file to explain each ducumentation usage.
 
 ### Contributors
-- Chew Loh Seng (@lohseng97)
-- Darryl Tan (@darryltkh)
-- Lim Jun Wei (@eveHasGithub)
-- Chockalingam Kasi (@Chockaaa)
+- Chew Loh Seng [lohseng97](https://github.com/lohseng97)
+- Darryl Tan [darryltkh](https://github.com/darryltkh)
+- Lim Jun Wei [eveHasGithub](https://github.com/eveHasGithub)
+- Chockalingam Kasi [Chockaaa](https://github.com/Chockaaa)
 - Royce Tan

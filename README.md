@@ -16,4 +16,4 @@
 - Darryl Tan [darryltkh](https://github.com/darryltkh)
 - Lim Jun Wei [eveHasGithub](https://github.com/eveHasGithub)
 - Chockalingam Kasi [Chockaaa](https://github.com/Chockaaa)
-- Royce Tan
+- Royce Tan [RoyRoyce](https://github.com/RoyRoyce)

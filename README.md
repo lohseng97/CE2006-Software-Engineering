@@ -9,7 +9,7 @@
 
 ### Contents
 - ``medicine_reminders`` folder: Contains the files required for the HealthZone App
-- ``Software Report and Paperwork`` folder: Contains the plan and details for the app and other develepmental ducumentation over the course of designing and implementation of the app. It contains a separate readme file to explain each ducumentation usage.
+- ``Software Report and Paperwork`` folder: Contains the plan and details for the app and other developmental ducumentation over the course of designing and implementation of the app. It contains a separate readme file to explain each ducumentation usage.
 
 ### Contributors
 - Chew Loh Seng [lohseng97](https://github.com/lohseng97)
